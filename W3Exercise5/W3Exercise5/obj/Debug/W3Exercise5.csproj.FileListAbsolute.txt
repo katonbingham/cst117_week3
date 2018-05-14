@@ -1,0 +1,10 @@
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\bin\Debug\W3Exercise5.exe.config
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\bin\Debug\W3Exercise5.exe
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\bin\Debug\W3Exercise5.pdb
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.csprojResolveAssemblyReference.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.ApproximatePI.resources
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.Properties.Resources.resources
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.csproj.GenerateResource.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.csproj.CoreCompileInputs.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.exe
+C:\Users\Katon Desktop\Documents\School\CST117\W3Exercise5\W3Exercise5\obj\Debug\W3Exercise5.pdb

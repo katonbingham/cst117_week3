@@ -1,0 +1,10 @@
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\bin\Debug\W3ProgrammingExercise3.exe.config
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\bin\Debug\W3ProgrammingExercise3.exe
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\bin\Debug\W3ProgrammingExercise3.pdb
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.csprojResolveAssemblyReference.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.Form1.resources
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.Properties.Resources.resources
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.csproj.GenerateResource.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.csproj.CoreCompileInputs.cache
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.exe
+C:\Users\Katon Desktop\Documents\School\CST117\W3ProgrammingExercise3\W3ProgrammingExercise3\obj\Debug\W3ProgrammingExercise3.pdb
